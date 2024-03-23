@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I am Jeffrey.
+### I'm currently a student at the University of Washington. I am an intended Computer Science major.
+### I am passionate about web development and machine learning, and using these tools for real-world applications.
 
 <!--
 **yerffejseel/yerffejseel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
