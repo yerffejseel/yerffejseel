@@ -1,5 +1,5 @@
 ### Hello, I am Jeffrey.
-### I'm currently a student at the University of Washington. I am an intended Computer Science major.
+### I'm currently a student at the University of Washington. I am a Computer Science major.
 ### I am passionate about web development and machine learning, and using these tools for real-world applications.
 
 <!--
